@@ -1,13 +1,5 @@
 # AGROSTRAT: Precision Agricultural Field Classification & Hyperlocal Farming Advisory System
 
-**Candidate:** A Smirrithi (Reg. No: 310624148101)  
-**Degree:** Bachelor of Engineering in Computer Science & Engineering (AI & ML)  
-**Course:** 2311CSE503R - Full Stack Development  
-**Institution:** Easwari Engineering College (Autonomous) – Affiliated to Anna University, Chennai  
-**Session:** October 2026  
-
----
-
 ## 📌 Problem Statement
 > **“Farmers require localized weather forecasts, rainfall predictions, drought warnings, irrigation recommendations, and crop advisories to improve agricultural productivity.”**
 
@@ -183,13 +175,3 @@ Deploying Agrostrat to the cloud is completely free using **Vercel** (Frontend) 
 
 ---
 
-## 📄 Academic Project Documentation
-The complete, verified academic documentation matching the **Easwari Engineering College** (Anna University) project report format is available in the `docs/` directory:
-- [**Complete 52-Page Project Report (PDF)**](file:///c:/Users/User/Desktop/fsd%20proj/docs/Agrostrat_Project_Report_310624148101.pdf)
-- [**Editable Word Report (.docx)**](file:///c:/Users/User/Desktop/fsd%20proj/docs/Agrostrat_Project_Report_310624148101.docx)
-- [**Viva Voce Preparation & 2-Minute Presentation Guide**](file:///c:/Users/User/Desktop/fsd%20proj/docs/PROJECT_OVERVIEW_VIVA_GUIDE.md)
-
----
-
-## 📜 License & Acknowledgement
-Engineered as part of the **B.E. Computer Science and Engineering (AI & ML)** program at **Easwari Engineering College, Chennai** under course **2311CSE503R - Full Stack Development**.
